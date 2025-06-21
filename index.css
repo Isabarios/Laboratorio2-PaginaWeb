@@ -1,11 +1,12 @@
 body{
-    background-color: #fff5d5 ;
+    background-color: #00aeff ;
     text-align: center;
 }
 header{
-    background-color: #e68a1b ;
+    background-color: #003aff (110, 110, 243) ;
 }
 ul {
+    text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
